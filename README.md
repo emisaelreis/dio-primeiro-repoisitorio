@@ -2,4 +2,4 @@
 Criado como atividade do primeiro desafio e projeto
 
 ## Objetivo
-1. Colocar em prática os conhecimentos sobre Git e GitHube
+### Colocar em prática os conhecimentos sobre Git e GitHube
